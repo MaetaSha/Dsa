@@ -68,3 +68,4 @@ int main() {
 
     return 0;
 }
+/*Algorithm 9.7: MERGE SORT(A, N) This algorithm sorts the N-clement array A using an auxili ...:r ray I. Set L . =. 1. [Initializes the number of elements in the suharrays. I2.Repeit Steps 3 to 6 while L. <N: 3.Call MERGEI'ASS(A, N, L, B). 4.Call MERGE-N. 2 * L. A). Set L:=4*I.. lEnd of Step 2 loop.] hixit.
